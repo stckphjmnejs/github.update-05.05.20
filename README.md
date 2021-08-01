@@ -1,7 +1,7 @@
 .
-  Download zip.file
+  `Download zip.file`
 
-  or
+  `type to the downloanding files on kali linux`
 
   `wget --no-check-certificate https://github.com/crutxsc0304410/alinakartvatit-3`
   
