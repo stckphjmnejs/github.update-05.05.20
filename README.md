@@ -1,4 +1,9 @@
 .
+  `DOWNLOANDING PYTHON LAST VERSION.`
+  `УСТАНОВИТЕ PYTHON ПОСЛЕДНЕЙ ВЕРСИИ`
+  `PYTHON INSTALLER HAVE IN ZIP FILE`
+  `УСТАНОВЩИК ПИТОНА ЕСТЬ В ZIP ФАЙЛЕ`
+
   `Download zip.file`
 
   `type to the downloanding files on kali linux`
